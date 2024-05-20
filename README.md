@@ -2,7 +2,7 @@
 
 Tool for comparing two colors according to WCAG Accessibility standards.
 
-![Contrast Checker](https://i.imgur.com/Z1J3tk7.png)
+![Contrast Checker](https://i.imgur.com/i8nLv3x.png)
 
 ## How it works
 Basically, it takes two color inputs and calculates its perceived brightness, compares them, and then check if they pass each one of the WCAG standards.
